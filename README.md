@@ -3,13 +3,15 @@
 I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & javascript lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20IDRISSI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)](https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)
-[![Instagram Badge](https://img.shields.io/badge/-Mohamed%20IDRISSI-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/idrissi_007/)](https://instagram.com/idrissi_007)
+[![Instagram Badge](https://img.shields.io/badge/-idrissi_007-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/idrissi_007/)](https://instagram.com/idrissi_007)
+[![Outlook Badge](http://img.shields.io/badge/-med.idrissi@outlook.com-purple?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:med.idrissi@outlook.com)](mailto:med.idrissi@outlook.com)
 [![Gmail Badge](https://img.shields.io/badge/-midrissi.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:midrissi.pro@gmail.com)](mailto:midrissi.pro@gmail.com)
 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Angular](https://img.shields.io/badge/-angular-de4132?style=flat-square&logo=Angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
