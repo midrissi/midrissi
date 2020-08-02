@@ -1,6 +1,6 @@
 ## Fancy seeing you here!
 
-I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & an javascript lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & javascript lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20IDRISSI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)](https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)
 [![Instagram Badge](https://img.shields.io/badge/-Mohamed%20IDRISSI-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/idrissi_007/)](https://instagram.com/idrissi_007)
