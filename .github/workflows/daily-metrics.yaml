@@ -1,6 +1,5 @@
 name: daily-metrics
 
-name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
