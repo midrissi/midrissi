@@ -1,4 +1,16 @@
-## Fancy seeing you here!
+# Hi there 👋 Fancy seeing you here!
+
+<div align="left">
+  <a href="https://api.daily.dev/get?r=idrissi" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/midrissi/midrissi/devcard/devcard.svg"
+    />
+  </a>
+</div>
+
+<br />
 
 I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & javascript lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -37,3 +49,5 @@ I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & java
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midrissi&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=midrissi)
+
+![Metrics](https://raw.githubusercontent.com/midrissi/midrissi/github-metrics/github-metrics.svg)

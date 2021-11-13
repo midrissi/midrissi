@@ -1,10 +1,10 @@
-name: DevCard
+name: daily-devcard
 
 on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: "0 0 * * *"
 
@@ -17,5 +17,4 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
-          commit_filename: devcard.png
           commit_message: "chore: update ${filename}"
