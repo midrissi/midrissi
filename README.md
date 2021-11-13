@@ -50,4 +50,4 @@ I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & java
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=midrissi)
 
-![Metrics](https://raw.githubusercontent.com/midrissi/midrissi/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/midrissi/midrissi/master/github-metrics.svg)
